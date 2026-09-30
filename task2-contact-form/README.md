@@ -3,6 +3,12 @@
 A responsive contact form built with plain HTML, CSS and JavaScript, as part of
 the Elevvo Front-End Web Development internship.
 
+## Screenshots
+
+![The form](screenshots/form.png)
+
+![Validation messages](screenshots/validation.png)
+
 ## What it does
 
 - Collects a full name, an email address, a subject and a message
@@ -14,12 +20,12 @@ the Elevvo Front-End Web Development internship.
 
 ## Validation rules
 
-| Field               | Rule 
-|
-| Full Name           | Required, at least 2 characters, letters and spaces only 
-| Email Address       | Required, must look like `you@example.com` 
-| Subject             | Required, at least 3 characters 
-| Message             | Required, at least 10 characters 
+| Field | Rule |
+| --- | --- |
+| Full Name | Required, at least 2 characters, letters and spaces only |
+| Email Address | Required, must look like `you@example.com` |
+| Subject | Required, at least 3 characters |
+| Message | Required, at least 10 characters |
 
 ## Built with
 
